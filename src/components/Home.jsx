@@ -19,7 +19,7 @@ export default function Home() {
             <a href="https://drive.google.com/file/d/1SLyEYrqnEP4Lw-HUYh-vaz0E12BK3wdh/view?usp=drive_link" target="_blank" className="btn">RESUME</a>
         </div>
         <div className="home-img">
-            <img src=".public/images/profile1.jpg" alt="" width="275px" height="400px"/>
+            <img src=".public/images/profile1.JPG" alt="" width="275px" height="400px"/>
         </div>
     </section>
     </div>
