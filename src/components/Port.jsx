@@ -7,7 +7,7 @@ export default function Port() {
         <h2 className="heading">Few  <span>Projects</span></h2>
             <div className="portfolio-container">
                 <div className="portfolio-box">
-                    <img src="/public/images/expense.jpeg" alt="" width="300px" height="200px"/>
+                    <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/895/791/datas/original.png" alt="" width="300px" height="200px"/>
                     <div className="portfolio-layer">
                         <h4>Expense Tracker</h4>
                         <p>Built using HTML, CSS and ReactJs and used firebase for authentication.</p>
