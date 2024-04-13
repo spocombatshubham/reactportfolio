@@ -7,7 +7,7 @@ export default function Port() {
         <h2 className="heading">Few  <span>Projects</span></h2>
             <div className="portfolio-container">
                 <div className="portfolio-box">
-                    <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/895/791/datas/original.png" alt="" width="300px" height="200px"/>
+                    <img src="https://www.sapphiresolutions.net/images/finance_expense_app/images/finance_expense_app_banner.svg" alt="" width="300px" height="200px"/>
                     <div className="portfolio-layer">
                         <h4>Expense Tracker</h4>
                         <p>Built using HTML, CSS and ReactJs and used firebase for authentication.</p>
@@ -15,7 +15,7 @@ export default function Port() {
                     </div>
                 </div>
                 <div className="portfolio-box">
-                    <img src="/public/images/souly.png" alt="" width="300px" height="200px"/>
+                    <img src="https://miro.medium.com/v2/resize:fit:1400/1*LSdz2EeBDEMYteKSN0nZvg.png" alt="" width="300px" height="200px"/>
                     <div className="portfolio-layer">
                         <h4>Soulify</h4>
                         <p>Built using HTML, CSS and Javascript where I used the concept of ArrayList and Arrow Functions with dynamic DOM manipulation.</p>
@@ -23,7 +23,7 @@ export default function Port() {
                     </div>
                 </div>
                 <div className="portfolio-box">
-                    <img src="/public/images/foody.png" alt="" width="300px" height="200px"/>
+                    <img src="https://strapi.dhiwise.com/uploads/foodio_online_food_and_restaurant_booking_react_2_8689627b00.jpg" alt="" width="300px" height="200px"/>
                     <div className="portfolio-layer">
                         <h4>Foodie App</h4>
                         <p>Used the concept of UseState in react and API implementation.</p>
