@@ -19,7 +19,7 @@ export default function Home() {
             <a href="https://drive.google.com/file/d/1SLyEYrqnEP4Lw-HUYh-vaz0E12BK3wdh/view?usp=drive_link" target="_blank" className="btn">RESUME</a>
         </div>
         <div className="home-img">
-            <img src="https://drive.google.com/file/d/1H4ZFCiZXalDIe6tk-Jc7yt8L86avwIox/view?usp=sharing" alt="" width="275px" height="400px"/>
+            <img src="https://www.instagram.com/p/C3YNzoMvkzV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" alt="" width="275px" height="400px"/>
         </div>
     </section>
     </div>
