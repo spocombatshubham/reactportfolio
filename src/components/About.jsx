@@ -5,7 +5,7 @@ export default function About() {
     <div>
         <section className="about" id="about">
         <div className="about-img">
-            <img src="https://www.instagram.com/p/C3YNzoMvkzV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" alt="" width="275px" height="400px"/>
+            <img src="https://avatarfiles.alphacoders.com/371/371697.png" alt="" width="275px" height="400px"/>
         </div>
         <div className="about-content">
             <h2 className="heading">About <span>Me</span></h2>
