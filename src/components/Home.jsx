@@ -5,7 +5,7 @@ import Typed from 'typed.js';
 export default function Home() {
     useEffect(() => {
         const typed = new Typed('.multiple-text', {
-            strings: ['Frontend Developer', 'Problem Solver', 'Javascript Developer', 'React.Js Developer', 'NodeJS Developer', 'C++ Developer','Database Handler'],
+            strings: ['Product Manager','Tech Researcher','Frontend Developer', 'Problem Solver', 'Javascript Developer', 'React.Js Developer', 'NodeJS Developer', 'C++ Developer','Database Handler'],
             typeSpeed: 100,
             backSpeed: 100,
             backDelay: 100,
